@@ -26,7 +26,7 @@ This project is a simple web application that fetches and displays weather data 
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd [project directory]
+    cd [https://omshukla101.github.io/weather-app/index.html]
     ```
 
 3.  **Open `index.html` in your web browser.**
